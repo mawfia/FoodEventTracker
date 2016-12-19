@@ -3,16 +3,16 @@ Individual Project created 16 December 2016
 
 INTRODUCTION:
 --------------------
-This is a Spring/REST CRUD project designed, built, and deployed to cloud services over a period of 2 days.
+This is a Single Page Application Spring/REST CRUD project designed, built, and deployed to cloud services over a period of 2 days.
 
 HOW TO USE:
 ---------------------
-Homepage gives the above storyline.  Click the button labeled "enter" near the left corner of the page to proceed to the login page.  To login with a basic membership use username: "test@test.com", and password: "Password0", or you can create your own email as a username and password.  After logging in you will be taken to your profile and from there you can enter the store by clicking the button labeled "shop".
+The below link will take you to the current list of food attached to the list.  A display of the total weight and price is on the top left.  The "home" button will display the full list of items.  The "new" button will generate a form allowing the use to input information for a new item to be attached to the list.  To the right of each item are buttons that allow the use to "update" or "delete" from the list.
 
 
 TECHNOLOGY USED:
 -----------------
-1.  All back-end logic and data storage was executed using JavaScript, JPA, and MySQL.
+1.  All back-end logic, front-end logic and data storage was executed using JavaScript, jQuery, AJAX, JPA, and MySQL.
 
 3.  Maven was used to manage the libraries for XML dependencies.
 
