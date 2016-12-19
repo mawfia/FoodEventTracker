@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+.main{
+	text-align: center;
+}
+
+#total{
+	float: left;
+	text-align: center;
+}

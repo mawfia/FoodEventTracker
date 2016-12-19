@@ -1,0 +1,63 @@
+id,name,description,weight,MSRP,quantity,image,calories
+,"Anchovy, canned in brine","Anchovy fillets preserved by canning in brine, then .",16,1,50,images/food/0.jpg,59.3
+,"Apple, canned in syrup, pie filling","Round shaped fruit with either a green or red waxy skin and cream/ White coloured flesh. Peeled, chopped and canned in a light sugar syrup, suitable for use as a filling in apple pies.",21,1,50,images/food/1.jpg,28
+,"Apricot, canned in intense sweetened liquid","Small, orange-coloured stone fruit canned in intense sweetened liquid, then .",16,1,50,images/food/2.jpg,27
+,"Apricot, canned in light syrup","Small, orange coloured stone fruit canned in a light syrup, then .",12,1,50,images/food/3.jpg,18
+,"Artichoke heart, canned in brine","Central edible portion of the unopened flower bud of a thistle, with tightly wrapped leaves gold-green to purple in colour. Canned in brine and .",4,1,50,images/food/4.jpg,25
+,"Asparagus, canned in brine","Long crisp stem with a fragile feathery tip. Spears and cuts, canned in brine, then . Average contents per can 64% solids.",11,1,50,images/food/5.jpg,46
+,"Bamboo shoot, canned in water","Tender young shoots of an edible bamboo plant, cream in colour with a fibrous texture. Sliced and canned in water. Heated in own juice, then . Average contents per can 57% solids. Weight loss of solids on heating 14%.",4,1,50,images/food/6.jpg,25
+,"Butter Beans, seeds & pod, canned, no added f","Green pod with creamy Yellow seeds. Cooked with no added fat. Also known as Yellow, wax, lima, and golden.",16,1,50,images/food/7.jpg,100
+,"Cannellini Beans, canned in brine","Small White bean, oval in shape, removed from its pod. Boiled and canned in brine. Average contents per can 73% beans.",16,1,50,images/food/8.jpg,150
+,"Green Beans, seeds & pod, canned, no added fa","Long, thin, green, crisp pod with small round smooth seeds inside. Cooked with no added fat.",16,1,50,images/food/9.jpg,34
+,"Lima Beans, canned","Flat kidney shaped bean that can be White or green, large or small. Slightly sweet flavour when cooked. Removed from its pod, canned, . Also known as madagascar bean, butter bean, calico bean and sieva bean.",16,1,50,images/food/10.jpg,216
+,"Mixed Beans (red kidney, lima & butter beans ","Three or four bean mix comprising red kidney, lima and butter beans and chickpeas. Canned in sweetened brine, then . Average contents per can 68% solids.",16,1,50,images/food/11.jpg,170
+,"Red Kidney Beans, canned in brine","Kidney shaped beans, canned in sweetened brine, before consumption. Average contents per can 72% solids.",16,1,50,images/food/12.jpg,127
+,"Corned Beef, canned","Canned processed meat product containing cooked beef, salt, sugar, sodium nitrite and water.",12,1,50,images/food/13.jpg,52
+,"Beetroot, canned","Rounded root vegetable with dark brown-purple skin and stems and purple flesh. Boiled, then sliced and preserved in a can in an acidified salted brine. .",4,1,50,images/food/14.jpg,91
+,"Blueberry, canned in syrup","Small, deep blue berry with Whiteish waxy bloom canned in sugar syrup, .",15,1,50,images/food/15.jpg,215
+,"Carrot, baby, canned in brine, boiled","Crisp root vegetable with orange flesh and green leaves/stem. Heated in packing liquid, then . Average contents per can 63% solids.",11,1,50,images/food/16.jpg,30
+,"Cherry, black, canned in syrup","Small, deep reddish-purple stone fruit canned in sugar-based syrup, then .",21,1,50,images/food/17.jpg,149
+,"Chickpea, canned in brine","Small, light coloured seed, removed from its pod. Canned in brine, then . Average contents per can 59% solids.",12,1,50,images/food/18.jpg,269
+,"Coconut, milk, canned","Canned liquid extract of the flesh of mature coconuts, generally with added water.",12,1,50,images/food/19.jpg,445
+,"Crab meat, canned in brine","Flesh extracted from crabs and canned in brine. May also includes salt, sugar, water and citric acid. of brine. Products imported into Australia.",12,1,50,images/food/20.jpg,82
+,"Vienna Sausage, canned, boiled","Canned frankfurt containing meat (including pork), skim milk powder, salt, potato starch, flavour enhancer, mineral salt, spices, sodium nitrite and water. Heated as per can instructions and before consumed.",4,1,50,images/food/21.jpg,260
+,"Fruit salad, canned in heavy syrup","Canned mixed fruit in sugar-based syrup, then .",11,1,50,images/food/22.jpg,70
+,"Ham, leg, canned","Canned leg ham containing pork, gelatine, salt, mineral salt, agar, sugar, anti-oxidant, sodium nitrite and water. Includes lean and fat portions of ham.",16,1,50,images/food/23.jpg,463
+,"Herring, canned with salt",Herring fillets preserved by canning with salt.,16,1,50,images/food/24.jpg,73
+,"Kipper, canned","Kipper, preserved by canning, then .",16,1,50,images/food/25.jpg,61
+,"Lychee, canned in light syrup","Small round to oval shaped fruit with a scaly reddish to reddish-brown skin and off- White flesh, canned in a light sugar based syrup, then . Also known as leechi, litchi, laichi or lichu.",16,1,50,images/food/26.jpg,125
+,"Mackerel, canned in brine",Mackerel fillets preserved by canning in brine.,16,1,50,images/food/27.jpg,85
+,"Mackerel, canned in oil","Mackerel fillets preserved by canning in edible oil, then .",16,1,50,images/food/28.jpg,44
+,"Mandarin, canned in syrup","Segments of a mandarin, canned in a sugar-based syrup and .",16,1,50,images/food/29.jpg,80
+,"Milk, canned, evaporated, Regularular",Australian produced evaporated milk. Prepared by evaporating approximately 60% of the water content of whole cows milk prior to sterilisation. Canned.,12,1,50,images/food/30.jpg,200
+,"Mixed fruit, peach & pear, canned in light sy","Peaches and pears that have been canned in light syrup, then .",4,1,50,images/food/31.jpg,60
+,"Mushroom, golden, Asian, canned in brine","Small, long-stemmed, Yellow-brown mushrooms, canned in brine, then . Average contents per can, 46% solids.",15,1,50,images/food/32.jpg,30
+,"Mussel, smoked, canned in oil","Smoked mussels canned in edible oil and salt, then .",4,1,50,images/food/33.jpg,110
+,"Oyster, smoked, canned in oil",Oyster flesh preserved by smoking and canning in edible oil (generally cottonseed oil) and salt. of excess oil.,4,1,50,images/food/34.jpg,150
+,"Pea, processed, canned","A small round green seed, canned, then .",15,1,50,images/food/35.jpg,70
+,"Peach, canned in syrup","Small stone fruit with a reddish/orange furry skin and orange flesh, canned in sugar-based syrup, then .",15,1,50,images/food/36.jpg,100
+,"Peach, canned, pie filling","Small stone fruit with a reddish/orange furry skin and orange flesh, canned and suitable for use as a filling in peach pies.",21,1,50,images/food/37.jpg,110
+,"Potato, new, canned, no added fat","Immature potatoes, small and round in shape, canned, typically with water, salt and food acids.",12,1,50,images/food/38.jpg,60
+,"Salmon, chum, canned, without salt, solids wi","Flesh and bones of fish labelled as being pink salmon. Canned in water with no added salt, .",15,1,50,images/food/39.jpg,39
+,"Salmon, pink, canned in brine","Flesh, bones and skin of fish labelled as pink salmon, preserved by canning in brine. of brine.",15,1,50,images/food/40.jpg,38
+,"Salmon, pink, canned, smoked","Flesh, bones and skin of fish labelled as pink salmon, preserved by canning in brine. .",15,1,50,images/food/41.jpg,58
+,"Salmon, red, canned in brine","Flesh, bones and skin of fish labelled as red salmon, preserved by canning in brine. of brine.",15,1,50,images/food/42.jpg,39
+,"Sardine, canned in oil",Sardines preserved by salting and canning in edible oil.,5,1,50,images/food/43.jpg,73
+,"Sardine, canned in water, no added salt","Sardines preserved by canning in water, no added salt.",5,1,50,images/food/44.jpg,58
+,"Sauerkraut, canned in brine","Fermented cabbage, preserved in brine in a can or bottle, before consumption.",5,1,50,images/food/45.jpg,0
+,"Soup, beef or lamb & vegetable, condensed, ca","Condensed soup containing beef or lamb and vegetables. Beef goulash, Rosella lambshank broth, Heinz mulligatawny mild beef curry and Campbells old fashion stockpot are examples of such a product. Requires dilution before consumption.",11,1,50,images/food/46.jpg,100
+,"Soup, beef, broth style, condensed, canned","Condensed beef broth style soup. Typical ingredients include concentrated beef stock, salt and diced beef. Requires dilution before consumption.",11,1,50,images/food/47.jpg,15
+,"Soup, chicken & vegetable, condensed, canned",Condensed soup containing chicken and vegetables. Requires dilution before consumption.,11,1,50,images/food/48.jpg,166
+,"Soup, chicken, broth style, condensed, canned","Condensed chicken broth style soup. Typical ingredients include concentrated chicken stock, salt and diced chicken. Requires dilution before consumption.",11,1,50,images/food/49.jpg,20
+,"Soup, creamed chicken, condensed, canned","Condensed creamed chicken soup. Typical ingredients include chicken, wheat flour, skim milk powder, cream, vegetable fat, salt, sugar, onion, herbs, maize starch, water and natural colour. Requires dilution before consumption.",11,1,50,images/food/50.jpg,110
+,"Soup, creamed mushroom, condensed, canned","Condensed creamed mushroom soup. Typical ingredients include mushroom, wheat flour, maize thickener, light cream or non fat milk solids, salt, vegetable gum, spices and vegetable oil. Requires dilution before consumption.",11,1,50,images/food/51.jpg,90
+,"Soup, minestrone, condensed, canned",Condensed minestrone soup. Requires dilution before consumption.,11,1,50,images/food/52.jpg,100
+,"Soup, pea & ham, condensed, canned",Condensed pea and ham soup. Requires dilution before consumption.,16,1,50,images/food/53.jpg,160
+,"Soup, tomato, condensed, canned","Condensed tomato soup. Typical ingredients include tomatoes, sugar, maize starch, salt, vegetable gum, and spices. Requires dilution before consumption.",16,1,50,images/food/54.jpg,110
+,"Spam, canned","Manufactured pork product containing chopped pork shoulder, leg ham, salt, sugar, mineral salts, sodium nitrite and water.",12,1,50,images/food/55.jpg,180
+,"Sprouts, bean, canned, no added salt","Sprouted from mung bean seeds. Long translucent to White in colour, with a short tapering green sheathed root. Canned in water with no added salt. Also known as ah choi, mung bean and sai dau.",18,1,50,images/food/56.jpg,110
+,"Sweetcorn, baby, canned in brine, , stir-frie","Baby (miniature) corn on the cob, canned in salt and water, then and cooked by stir frying with no added fat.",15,1,50,images/food/57.jpg,60
+,"Tuna, canned in brine",Tuna flesh preserved by canning in brine. of brine.,15,1,50,images/food/58.jpg,34
+,"Tuna, canned in vegetable oil","Tuna flesh canned in edible oil (including olive oil, canola oil, polyunsaturated oil) with added salt. of excess oil.",15,1,50,images/food/59.jpg,52
+,"Tuna, canned in water","Tuna, preserved by canning in water.",15,1,50,images/food/60.jpg,32
+,"Tuna, smoked, canned in oil","Tuna, preserved by smoking and canning in oil, then .",15,1,50,images/food/61.jpg,55
